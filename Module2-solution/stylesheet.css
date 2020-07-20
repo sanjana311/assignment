@@ -66,7 +66,7 @@
         font-size: 25px;
     }
    
-    /desktop view/
+   
     @media(min-width: 992px){
         .col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12
             {
@@ -110,7 +110,7 @@
                 width: 100%;
             }
         }
-        /tablets/
+        
         @media(min-width: 768px) and (max-width:991px)
         {
             .col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12{
@@ -154,7 +154,7 @@
                 width: 100%;
             }
         }
-        /mobile/
+        
         @media(max-width: 767px){
         .col-sh-1,.col-sh-2,.col-sh-3,.col-sh-4,.col-sh-5,.col-sh-6,.col-sh-7,.col-sh-8,.col-sh-9,.col-sh-10,.col-sh-11,.col-sh-12
             {
